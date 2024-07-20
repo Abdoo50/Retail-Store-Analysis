@@ -8,6 +8,8 @@ This project involves analyzing retail sales metrics to gain insights into sales
 
 ### Sales Performance Dashboard
 
+![Sales Performance Dashboard](https://github.com/Abdoo50/Retail-Store-Analysis/blob/main/Sales%20Performance%20Dashboard.png)
+
 - **Total Sales**: $7.81M
 - **Total Profit**: $3.61M
 - **Total Costs**: $361.15K
@@ -21,6 +23,8 @@ This project involves analyzing retail sales metrics to gain insights into sales
 
 ### Products Performance Dashboard
 
+![Products Performance Dashboard](https://github.com/Abdoo50/Retail-Store-Analysis/blob/main/Products%20Performance%20Dashboard.png)
+
 - **Total Sales**: $7.81M
 - **Total Units Sold**: 128.37K
 - **Total Profit**: $3.61M
@@ -29,6 +33,7 @@ This project involves analyzing retail sales metrics to gain insights into sales
 - **Sales by Product Category**: Sales performance across different product categories
 - **Top 10 Products by Average Shipping Time**: Analysis of shipping times for top products
 - **Top 10 Shipping Costs per Product**: Analysis of shipping costs for top products
+
 
 ## Technical Steps
 
